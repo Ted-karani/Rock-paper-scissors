@@ -1,0 +1,30 @@
+header{
+    color: aliceblue;
+    background-color: darkgray;
+    align-content: center;
+    padding: 20px;
+
+}
+header:hover{
+    transform: scale(1.05);
+
+    cursor: pointer;
+}
+button{
+    border: 3px solid;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 10px;
+    color: azure;
+    background-color: dimgray;
+
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1) ;
+
+
+}
+body{
+    background-color: moccasin;
+}
